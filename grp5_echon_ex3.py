@@ -24,5 +24,5 @@ x, y, z = 1, 2, 3
 print(x, y, z)
 
 # One Value to Multiple Variables
-a = b = c = "Group1"
+a = b = c = "Group5"
 print(a, b, c)
