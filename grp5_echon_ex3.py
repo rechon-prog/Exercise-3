@@ -1,4 +1,4 @@
-# My first simple script
+
 
 # Print introduction
 print("Hello, I'm Rian Anthony P. Echon! From 1V")
@@ -10,7 +10,7 @@ name = "Rian"
 print(number)
 print(name)
 
-# Python - Variable Names (first names of group members, not including yours)
+# Python - Variable Names (names of group members)
 ericka = "Ericka"
 mark = "Mark"
 jc = "Jc"
