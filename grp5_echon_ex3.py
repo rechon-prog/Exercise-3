@@ -4,7 +4,7 @@
 print("Hello, I'm Rian Anthony P. Echon! From 1V")
 
 # Python Variables
-number = "1V"
+number = 19
 name = "Rian"
 
 print(number)
