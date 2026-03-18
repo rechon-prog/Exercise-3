@@ -1,6 +1,6 @@
+# My First Simple Script
 
-
-# Print introduction
+# My introduction
 print("Hello, I'm Rian Anthony P. Echon! From 1V")
 
 # Python Variables
